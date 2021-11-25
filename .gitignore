@@ -1,6 +1,8 @@
-/.idea/pycharm_item.iml
-/.idea/.gitignore
 /.idea/deployment.xml
+/.idea/.gitignore
+/.idea/.name
+/.idea/iGrab.iml
 /.idea/misc.xml
 /.idea/modules.xml
+/.idea/remote-mappings.xml
 /.idea/vcs.xml
