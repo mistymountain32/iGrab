@@ -16,7 +16,8 @@ def main():
     # 准备工作：输入昵称，初始化不变部分
     nickname = input("请输入昵称: ")
     myheaders = {'Host': 'wechat.v2.traceint.com', 'Connection': 'keep-alive', 'Content-Length': '729',
-                 'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2012K11AC Build/RKQ1.200826.002; wv) AppleWebKit/537.36 '
+                 'User-Agent': 'Mozilla/5.0 (Linux; Android 11; M2012K11AC Build/RKQ1.200826.002; wv) '
+                               'AppleWebKit/537.36 '
                                '(KHTML, like Gecko) Version/4.0 Chrome/86.0.4240.99 XWEB/3149 MMWEBSDK/20211001 Mobile '
                                'Safari/537.36 MMWEBID/68 MicroMessenger/8.0.16.2040(0x28001053) Process/toolsmp '
                                'WeChat/arm64 Weixin NetType/WIFI Language/zh_CN ABI/arm64',
